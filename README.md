@@ -1,1 +1,1 @@
-# BcereusGroup-data
+# *Bacillus cereus* group datasets 
